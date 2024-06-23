@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+chromadb==0.4.22
+requests==2.32.3
+sentence-transformers==2.2.2
+streamlit==1.29.0
+transformers==4.36.2
+google-generativeai
