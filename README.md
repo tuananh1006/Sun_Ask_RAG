@@ -37,7 +37,7 @@ This project utilizes web scraping, natural language processing, and generative 
    `python data.py`
    Get data,add data to vector database
 2. **Run the Streamlit application:**
-   `streamlit app.py`
+   `streamlit run app.py`
    This command starts a local web server and opens the Sun Asterisk interactive Q&A interface in your web browser.
 3. **Ask questions about Sun Asterisk:**
    Enter your questions in the text input field provided. The system uses a Retrieval-Augmented Generation (RAG) model to generate responses based on pre-scraped information about Sun Asterisk.
