@@ -1,4 +1,4 @@
-# Sun_Ask
+# Sun_Ask_RAG
 ## Table of Contents
 
 - [Overview](#overview)
