@@ -1,7 +1,7 @@
 # Sun_Ask
 ## Overview
 
-This system involves steps from data collection, data transformation, storage, to user query responses. The main components of the system are: **Sun**, **Chroma**, and **Gemini**.
+This system involves steps from data collection, data transformation, storage, to user query responses. The main components of the system are: **Sun Asterisk Website**, **Chroma**, and **Gemini**.
 
 ### Components and Workflow
 
