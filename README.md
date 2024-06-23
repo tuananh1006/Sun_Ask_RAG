@@ -10,6 +10,10 @@
 
 This system involves steps from data collection, data transformation, storage, to user query responses. The main components of the system are: **Sun Asterisk Website**, **Chroma**, and **Gemini**.
 
+<p align="center">
+  <img src="https://scontent-hkg4-2.xx.fbcdn.net/v/t1.15752-9/448274067_838205034323638_5401617840387538609_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TxNGuNSgXvUQ7kNvgEwa2fO&_nc_ht=scontent-hkg4-2.xx&oh=03_Q7cD1QGM1HU5IPHYog88Tn5nLzf2epHvH2in9DLKPTaKehGrJg&oe=669F94FA" alt="Sun Asterisk Logo">
+</p>
+
 ### Components and Workflow
 
 1. **Sun Asterisk Website**
@@ -39,9 +43,7 @@ This system involves steps from data collection, data transformation, storage, t
 
 This system creates a workflow from data collection, transformation into vector embeddings, storage in a database, to query processing and response generation for users. Technologies like Chroma and Gemini play crucial roles in processing and responding to questions based on the collected and stored data.
 
-<p align="center">
-  <img src="https://scontent-hkg4-2.xx.fbcdn.net/v/t1.15752-9/448274067_838205034323638_5401617840387538609_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TxNGuNSgXvUQ7kNvgEwa2fO&_nc_ht=scontent-hkg4-2.xx&oh=03_Q7cD1QGM1HU5IPHYog88Tn5nLzf2epHvH2in9DLKPTaKehGrJg&oe=669F94FA" alt="Sun Asterisk Logo">
-</p>
+
 
 
 
