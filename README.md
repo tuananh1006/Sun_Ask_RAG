@@ -5,7 +5,7 @@ This system involves steps from data collection, data transformation, storage, t
 
 ### Components and Workflow
 
-1. **Sun**
+1. **Sun Asterisk Website**
    - **Data Sources**: The system begins with data sources from `sun-asterisk.vn/*`.
    - **Scraping**: Data is collected from these sources through scraping.
 
