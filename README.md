@@ -51,28 +51,32 @@ This system creates a workflow from data collection, transformation into vector 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/sun-asterisk-project.git
-   cd sun-asterisk-project
+   git clone https://github.com/tuananh1006/Sun_Ask_RAG.git
+   cd Sun_Ask_RAG
+
+   ```
 
 2. **Install dependencies:**
-   
-    ```pip install -r requirements.txt```
-   
-   
+
+   `pip install -r requirements.txt`
+
 3. **Setup environment variables**
 
    Create a `.env` file in the root directory with the following content:
 
-   ```GOOGLE_API_KEY=<your_google_api_key>```
+   `GOOGLE_API_KEY=<your_google_api_key>`
 
    Replace <your_google_api_key> with your actual Google API key obtained from the Google Cloud Console.
 
 ## **Usage**
-1. **Run the Streamlit application:**
-```streamlit app.py```
-This command starts a local web server and opens the Sun Asterisk interactive Q&A interface in your web browser.
-2. **Ask questions about Sun Asterisk:**
-Enter your questions in the text input field provided. The system uses a Retrieval-Augmented Generation (RAG) model to generate responses based on pre-scraped information about Sun Asterisk.
+1. **Run the initial vectordatabase:**
+   `python data.py`
+   Get data,add data to vector database
+2. **Run the Streamlit application:**
+   `streamlit app.py`
+   This command starts a local web server and opens the Sun Asterisk interactive Q&A interface in your web browser.
+3. **Ask questions about Sun Asterisk:**
+   Enter your questions in the text input field provided. The system uses a Retrieval-Augmented Generation (RAG) model to generate responses based on pre-scraped information about Sun Asterisk.
 
 
 ## **Contributing**
