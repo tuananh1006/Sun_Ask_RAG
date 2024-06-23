@@ -1,4 +1,11 @@
 # Sun_Ask
+## Table of Contents
+
+- [Overview](#overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Credits](#credits)
 ## Overview
 
 This system involves steps from data collection, data transformation, storage, to user query responses. The main components of the system are: **Sun Asterisk Website**, **Chroma**, and **Gemini**.
@@ -37,12 +44,7 @@ This system creates a workflow from data collection, transformation into vector 
 </p>
 
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Installation
 
