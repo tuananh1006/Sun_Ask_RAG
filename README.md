@@ -72,13 +72,6 @@ This command starts a local web server and opens the Sun Asterisk interactive Q&
 2. **Ask questions about Sun Asterisk:**
 Enter your questions in the text input field provided. The system uses a Retrieval-Augmented Generation (RAG) model to generate responses based on pre-scraped information about Sun Asterisk.
 
-<p align="center">
-  <img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.15752-9/448145943_1835300310230509_5864883126335463683_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xWHFvLn4iicQ7kNvgEfbsb0&_nc_ht=scontent-hkg4-1.xx&oh=03_Q7cD1QEe5c0P9j1c5_h_Cfcery0goS1v120CmHdQCG-PtA6Fxg&oe=669F07D5" alt="Sun Asterisk Logo">
-</p>
-
-<p align="center">
-  <em>Results returned when asking for information about Sun* company </em>
-</p>
 
 ## **Contributing**
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
